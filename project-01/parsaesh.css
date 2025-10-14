@@ -1,0 +1,49 @@
+body
+{
+    margin: 0px;
+    background-color:rgb(3, 132, 152);
+    
+}
+#head
+{
+        width: 1370px;
+}
+#pslogo
+{
+    width: 185px;
+    height: 170px;
+    margin-left: 25px;
+    margin-right: 55px;
+}
+#xboxlogo
+{
+    width: 185px;
+    height: 185px;
+    margin-left: 75px;
+    margin-right: 75px;
+    border-radius: 250px;
+}
+#eshpic1
+{
+    width: 590px;
+    height: 320px;
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-left: 0px;
+}
+#eshpic2
+{
+    width: 320px;
+    height: 320px;
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-left: 0px;
+}
+#eshpic3
+{
+    width: 320px;
+    height: 320px;
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-left: 0px;
+}

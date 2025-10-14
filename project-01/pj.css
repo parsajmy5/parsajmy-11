@@ -1,0 +1,49 @@
+#mmdi
+    {
+        background-color:aqua;
+        color:blueviolet;
+        font-size: 40px;
+        font-weight: 850;
+        font-family:serif;
+        border: 5px;
+        border: solid 5px yellowgreen;
+        padding: 20px;
+    }
+a
+    {
+        background-color: rgb(255, 0, 157);
+        display: block;
+    }
+u
+    {
+        display:inline;
+        background-color: deeppink;
+    }
+    
+body
+    {
+        background-color: chartreuse;
+        margin: 0px;
+    }
+#calbasi
+    {
+        background-color: chocolate;
+        color: blue;
+    }
+#babae
+    {
+        color: brown;
+    }
+    /* برای کامنت کردن کد باید ctrl+/را بزنیم */
+    /* بک گراند کالر میاد و رنگ پشت متن را عوض میکند */
+    /* کالر میاد و رنگ متن را عوض میکنه */
+    /* میاد و سایز متن را تفیر میده فونت سایز*/
+    /* میاد و کلفتی نازکی متن را تغیر میده فونت ویگت */
+    /* دیس پلی ای لاین میاد و تگ را این لاین میکنه  */
+    /* دیس پلی بلاک میاد و تگ را بلاک میکنه  */
+    /* فونت فامیلی میاد و فونت متن را تغیر میده */
+    /* پدینگ میاد و فاصله بین بودر و متن را کم و زیاد میکنه  */
+    /* بوردر میاد و دور فضای متن را یک بوردر میکشد */
+    /* ماجین میاد و فاصله بین تگ ها را کم و زیاد میکنه */
+    /* !!مهم insprct مهم!! */
+    /* رادیوس میاد و گوشه های یک شکل یا عکس را گرد می کند */

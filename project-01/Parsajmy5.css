@@ -1,0 +1,83 @@
+#mine
+{
+    width: 1350px;
+}
+body
+{
+    margin: 0px;
+    background-color: rgb(3, 132, 152);
+}
+#LIST1
+{
+    font-size: 35PX;
+
+}
+#XBOX
+{
+    color:rgb(16, 124, 16);
+}
+#PLAYSTATION
+{
+    color:rgb(0, 98, 178);
+}
+#NINTENDOSWITCH
+{
+    color:rgb(230, 0, 18);
+}
+#PLAYSTATIONlink
+{
+    text-decoration: none;
+}
+#NINTENDOSWITCHlink
+{
+    text-decoration: none;
+   
+}
+#XBOXlink
+{
+    text-decoration: none;
+}
+#PClink
+{
+    text-decoration: none;
+}
+#gamelink
+{
+    border-radius: 20px;
+   
+}
+#giftlink
+{
+    border-radius: 20px;
+   
+}
+#sherlink
+{
+    border-radius: 20px;
+    
+}
+#headpic1
+{
+    width: 600px;
+    height: 330px;
+    border-radius: 20px;
+    margin: 15px;
+}
+#headpic2
+{
+    width: 330px;
+    height: 330px;
+    border-radius: 20px;
+    margin: 15px;
+}
+#headpic3
+{
+    width: 330px;
+    height: 330px;
+    border-radius: 20px;
+    margin: 15px;
+}
+#parsagame
+{
+    text-decoration: none;
+}

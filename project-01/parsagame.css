@@ -1,0 +1,64 @@
+body
+{
+    margin: 0px;
+    background-color:rgb(3, 132, 152);
+}
+#head
+{
+        width: 1370px;
+
+}
+#pslogo
+{
+    width: 165px;
+    height: 135px;
+    margin-left: 25px;
+    margin-right: 70px;
+}
+#xboxlogo
+{
+    width: 150px;
+    height: 150px;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 250px;
+}
+#steamlogo
+{
+    width: 150px;
+    height: 150px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+#ninlogo
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 48px;
+    margin-left: 80px;
+    margin-right: 25px;
+}
+#gamepic1
+{
+    width: 590px;
+    height: 330px;
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-left: 0px;
+}
+#gamepic2
+{
+    width: 330px;
+    height: 330px;
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-left: 0px;
+}
+#gamepic3
+{
+    width: 330px;
+    height: 330px;
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-left: 0px;
+}
