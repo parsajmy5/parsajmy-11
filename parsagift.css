@@ -1,0 +1,61 @@
+body
+{
+    margin: 0px;
+    background-color:rgb(3, 132, 152);
+}
+#big
+{
+    width: 1350px;
+}
+#logocard
+{
+    border-radius: 20px;
+    width: 400px;
+    height: 200px;
+
+}
+#pic2
+{
+    border-radius: 20px;
+    width: 370px;
+    height: 200px;
+}
+#pic1
+{
+    border-radius: 20px;
+    width: 370px;
+    height: 200px;
+}
+#giftpic1
+{
+    width: 590px;
+    height: 320px;
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-left: 0px;
+
+}
+#giftpic2
+{
+    width: 320px;
+    height: 320px;
+    border-radius: 20px;
+    margin-right: 30px;
+    margin-left: 15px;
+}
+#giftpic3
+{
+    width: 320px;
+    height: 320px;
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-left: 0px;
+}
+#giftpic4
+{
+    border-radius: 20px;
+    width: 250px;
+    height: 250px;
+    margin: 0px;
+    display:inline;
+}

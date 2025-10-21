@@ -1,0 +1,40 @@
+body
+{
+    margin: 0px;
+    background-color:rgb(3, 132, 152);
+    
+}
+#big
+{
+    width: 1350px;
+}
+#logocard
+{
+    border-radius: 20px;
+    width: 400px;
+    height: 200px;
+}
+#eshpic1
+{
+    width: 590px;
+    height: 320px;
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-left: 0px;
+}
+#eshpic2
+{
+    width: 320px;
+    height: 320px;
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-left: 0px;
+}
+#eshpic3
+{
+    width: 320px;
+    height: 320px;
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-left: 0px;
+}

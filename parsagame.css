@@ -1,0 +1,39 @@
+body
+{
+    margin: 0px;
+    background-color:rgb(3, 132, 152);
+}
+#big
+{
+    width: 1350px;
+}
+#logocard
+{
+    border-radius: 20px;
+    width: 400px;
+    height: 200px;
+}
+#gamepic1
+{
+    width: 590px;
+    height: 330px;
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-left: 0px;
+}
+#gamepic2
+{
+    width: 330px;
+    height: 330px;
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-left: 0px;
+}
+#gamepic3
+{
+    width: 330px;
+    height: 330px;
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-left: 0px;
+}

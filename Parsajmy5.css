@@ -1,0 +1,80 @@
+
+#big
+{
+    width: 1350px;
+}
+#game1m
+{
+    border-radius: 20px;
+    width: 400px;
+    height: 200px;
+}
+body
+{
+    margin: 0px;
+    margin-top: 0px;
+    background-color: rgb(3, 132, 152);
+}
+#LIST1
+{
+    font-size: 35PX;
+
+}
+#headpic1
+{
+    width: 600px;
+    height: 330px;
+    border-radius: 20px;
+    margin: 15px;
+}
+#headpic2
+{
+    width: 330px;
+    height: 330px;
+    border-radius: 20px;
+    margin: 15px;
+}
+#headpic3
+{
+    width: 330px;
+    height: 330px;
+    border-radius: 20px;
+    margin: 15px;
+}
+#mahbob
+{
+
+    font-family: Myriad Pro;
+    font-size: 50px;
+    color: rgb(206, 161, 68);
+}
+#tmp
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+
+}
+#sog
+{
+    width: 540px;
+    height: 300px;
+    border-radius: 25px;
+}
+#all
+{
+    width: 140px;
+    height: 300px;
+    border-radius: 25px;
+}
+footer
+{
+    
+   background-color:rgb(206, 161, 68);
+}
+#footer
+{
+    font-size:25px;
+    margin-left:130px;
+    color: rgb(3, 132, 152);
+}

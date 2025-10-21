@@ -1,0 +1,38 @@
+body
+{
+    margin:0px;
+    background-color: rgb(3, 132, 152);
+}
+pre
+{
+    font-size: 29px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 25px;
+    color: rgb(206, 161, 68);
+}
+#butpic
+{
+    width: 70px;
+    height: 70px;
+    margin-left: 1100px;
+}
+#mine
+{
+    width: 1350px;
+}
+#h1
+{
+    font-family: Myriad Pro;
+    font-size: 40px;
+}
+#h2
+{
+    font-family: Myriad Pro;
+    font-size: 35px;
+    margin-left: 50px;
+}
+#us
+{
+    font-family: Myriad Pro;
+    font-size: 20px;
+}
