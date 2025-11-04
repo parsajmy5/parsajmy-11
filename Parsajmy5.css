@@ -5,76 +5,171 @@
 }
 #game1m
 {
+    color:rgb(93, 58, 125);
     border-radius: 20px;
     width: 400px;
     height: 200px;
+    transition:all 0.3s ease-in-out;
+}
+#game1m:hover
+{
+    transform: scale(1.1);
+    box-shadow: 0px 10px 20px;
 }
 body
 {
+    color:rgb(93, 58, 125);
     margin: 0px;
     margin-top: 0px;
-    background-color: rgb(3, 132, 152);
+    background-color: rgb(13, 27, 42);
 }
 #LIST1
 {
     font-size: 35PX;
 
 }
-#headpic1
+.headpic1
 {
+    color:rgb(93, 58, 125);
     width: 600px;
     height: 330px;
     border-radius: 20px;
     margin: 15px;
+    transition:all 0.5s ease-in-out;
 }
-#headpic2
+.headpic1:hover
 {
+   
+    box-shadow: 0px 10px 20px;
+}
+.headpic2
+{
+    color:rgb(93, 58, 125);
     width: 330px;
     height: 330px;
     border-radius: 20px;
     margin: 15px;
+    transition:all 0.5s ease-in-out;
 }
-#headpic3
+.headpic2:hover
 {
+    
+    box-shadow: 0px 10px 20px;
+}
+.headpic3
+{
+    color:rgb(93, 58, 125);
     width: 330px;
     height: 330px;
     border-radius: 20px;
     margin: 15px;
+    transition:all 0.5s ease-in-out;
+}
+.headpic3:hover
+{
+   
+    box-shadow: 0px 10px 20px;
 }
 #mahbob
 {
 
     font-family: Myriad Pro;
     font-size: 50px;
-    color: rgb(206, 161, 68);
+    color: rgb(93, 58, 125);
 }
 #tmp
 {
+    color:rgb(93, 58, 125);
     width: 300px;
     height: 300px;
     border-radius: 25px;
-
+    transition:all  0.5s ease-in-out;
+}
+#tmp:hover
+{
+    
+    box-shadow: 0px 10px 20px;
 }
 #sog
 {
+    color:rgb(93, 58, 125);
     width: 540px;
     height: 300px;
     border-radius: 25px;
+    transition:all  0.5s ease-in-out;
+
+}
+#sog:hover
+{
+   
+    box-shadow: 0px 10px 20px;
 }
 #all
 {
+    color:rgb(93, 58, 125);
     width: 140px;
     height: 300px;
     border-radius: 25px;
+    transition:all  0.5s ease-in-out;
+}
+#all:hover
+{
+    
+    box-shadow: 0px 10px 20px;
 }
 footer
 {
     
-   background-color:rgb(206, 161, 68);
+   background-color:rgb(93, 58, 125);
 }
 #footer
 {
     font-size:25px;
     margin-left:130px;
-    color: rgb(3, 132, 152);
+    color: rgb(13, 27, 42);
+}
+.headpici
+{
+    background-color:rgb(93, 58, 125);
+} 
+.headpici button
+{
+    background-color:rgb(93, 58, 125);
+    border: 0px;
+    transition:all 0.5s ease-in-out;
+} 
+.headpici img
+{
+    border-radius: 15px;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+    transition:all 0.5s ease-in-out;
+}
+.headpici span
+{
+    color: rgb(13, 27, 42);
+    font-size: 50px;
+    margin-left: 100px;
+    transition:all 0.5s ease-in-out;
+}
+.headpici .wolf
+{
+    width: 55px;
+    height: 55px;
+    margin-left: 268.2px;
+    margin-top: 10px;
+    transition:all 0.5s ease-in-out;
+}
+.headpici span:hover
+{
+    color: rgb(13, 27, 42);
+    text-shadow: 5px 5px 5px;
+}
+.headpici button :hover
+{
+
+    transform: scale(1.1);
+
 }

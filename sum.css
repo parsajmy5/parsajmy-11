@@ -1,0 +1,61 @@
+
+.mmd
+{
+    margin: 0px;
+    border-radius:25px;
+    display: inline-block;
+    overflow: hidden;
+    height: 360px;
+
+}
+.mmd button
+{
+    border-radius:
+     10px;border: 0px; 
+     color:rgb(3, 132, 152);
+     background-color: rgb(206, 161, 68); 
+    font-size: 30px;
+    transition:all 1.0s ease-in-out;
+    margin-left: 35px;
+    margin-top: 8px;
+    
+}
+.mmd button:hover
+{
+    
+    color:rgb(3, 132, 152);
+    text-shadow: 0px 5px 5px;
+
+}
+.mmd span
+{
+    border-radius:
+     10px;border: 0px; 
+     color:rgb(3, 132, 152);
+     background-color: rgb(206, 161, 68); 
+    font-size: 30px;
+    transition:all 1.0s ease-in-out;
+    margin-left: 5px;
+    margin-top: 8px;
+    
+}
+.mmd span:hover
+{
+    
+    color:rgb(3, 132, 152);
+    text-shadow: 0px 5px 5px;
+
+}
+.m img
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    transition:all 1.0s ease-in-out;
+
+}
+.m img:hover
+{
+    
+    transform: scale(1.1);
+}

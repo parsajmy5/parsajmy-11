@@ -2,11 +2,45 @@ body
 {
     margin: 0px;
     margin-top: 0px;
-    background-color: rgb(3, 132, 152);
+    background-color: rgb(13, 27, 42);
 }
 pre
 {
     font-family:Myriad Pro;
+}
+.menu
+{
+    background-color:rgb(93, 58, 125);
+    color: rgb(13, 27, 42);
+    width:150px;
+    height: 60px;
+    border-radius: 20px;
+    margin: 20px;
+    margin-left: 45PX;
+    border: 0px;
+    font-size: 25px;
+    transition:all 0.7s ease-in-out;
+}
+.menu:hover
+{
+    text-shadow: 0px 7px 5px;
+}
+.menu1
+{
+    background-color:rgb(93, 58, 125);
+    color: rgb(13, 27, 42);
+    width:150px;
+    height: 60px;
+    border-radius: 20px;
+    margin: 20px;
+    margin-left: 45PX;
+    border: 0px;
+    font-size: 18px;
+    transition:all 0.7s ease-in-out;
+}
+.menu1:hover
+{
+    text-shadow: 0px 7px 5px;
 }
 #mine
 {
@@ -21,77 +55,161 @@ pre
 #matn
 {
     font-size:60px;
-    color:rgb(206, 161, 68);
-    margin-left:500px;
+    color:rgb(93, 58, 125);
+    margin-left:560px;
+    transition:all 0.5s ease-in-out;
 }
+#matn:hover
+{
+    color:rgb(93, 58, 125);
+    text-shadow: 5px 5px 5px;
+}
+
 #Email
 {
     margin: 0%;
     border-radius: 15px;
-    background-color:rgb(206, 161, 68);
-    border-color: rgb(206, 161, 68);
+    background-color:rgb(93, 58, 125);
+    border-color: rgb(93, 58, 125);
     width: 350px;
     height: 40px;
     margin-left:450px;
+    border: 0px;
+    transition:all 0.5s ease-in-out;
     
+}
+#Email:hover
+{
+
+    transform: scale(1.1);
+
 }
 #password
 {
     margin: 0px;
     border-radius: 15px;
-    background-color:rgb(206, 161, 68);
-    border-color: rgb(206, 161, 68);
+    background-color:rgb(93, 58, 125);
+    border-color: rgb(93, 58, 125);
     width: 350px;
     height: 40px;
     margin-left:450px;
+    border: 0px;
+    transition:all 0.5s ease-in-out;
 }
-button
+#password:hover
 {
-    margin: 0px;
-    border-radius: 15px;
-    background-color:rgb(206, 161, 68);
-    border-color: rgb(206, 161, 68);
-    width: 250px;
-    height: 40px;
-    margin-left:500px;
+
+    transform: scale(1.1);
+
 }
 #buten
 {
     font-family:Myriad Pro;
-    color:rgb(3, 132, 152);
-    font-size: 20px;
+    color:rgb(13, 27, 42);
+    font-size: 25px;
+    margin: 0px;
+    border-radius: 15px;
+    background-color:rgb(93, 58, 125);
+    border-color: rgb(93, 58, 125);
+    width: 250px;
+    height: 40px;
+    margin-left:500px;
+    border: 0px;
+    transition:all 0.5s ease-in-out;
 }
-
+#buten:hover
+{
+    text-shadow:  0px 7px 7px;
+}
 #matn2
 {
     font-size:35px;
-    color:rgb(206, 161, 68);
+    color:rgb(93, 58, 125);
     margin-left:380px;
+    transition:all 0.5s ease-in-out;
 }
 #matn3
 {
     font-size:35px;
-    color:rgb(206, 161, 68);
+    color:rgb(93, 58, 125);
     margin-left:525px;
+transition:all 0.5s ease-in-out;
+}
+#matn3:hover
+{
+    color:rgb(93, 58, 125);
+    text-shadow: 5px 5px 5px;
+}
+#matn2:hover
+{
+    color:rgb(93, 58, 125);
+    text-shadow: 5px 5px 5px;
 }
 #matn4
 {
     font-size:25px;
-    color:rgb(206, 161, 68);
+    color:rgb(93, 58, 125);
     margin-left:500px;
+    transition:all 0.5s ease-in-out;
 }
 #matn6
 {
     font-size:25px;
-    color:rgb(206, 161, 68);
+    color:rgb(93, 58, 125);
+    transition:all 0.5s ease-in-out;
 }
 #logup
 {
-    color:rgb(206, 161, 68);
+    color:rgb(93, 58, 125);
 }
 #matn5
 {
     font-size:25px;
-    color:rgb(206, 161, 68);
+    color:rgb(93, 58, 125);
     margin-left:25px;
+}
+.headpici
+{
+    background-color:rgb(93, 58, 125);
+} 
+.headpici button
+{
+    background-color:rgb(93, 58, 125);
+    border: 0px;
+    transition:all 0.5s ease-in-out;
+} 
+.headpici img
+{
+    border-radius: 15px;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+    transition:all 0.5s ease-in-out;
+}
+.headpici span
+{
+    color: rgb(13, 27, 42);
+    font-size: 50px;
+    margin-left: 100px;
+    transition:all 0.5s ease-in-out;
+} 
+.headpici .wolf
+{
+    width: 55px;
+    height: 55px;
+    margin-left: 268.2px;
+    margin-top: 10px;
+    transition:all 0.5s ease-in-out;
+}
+.headpici span:hover
+{
+    color: rgb(13, 27, 42);
+    text-shadow: 5px 5px 5px;
+}
+.headpici button :hover
+{
+
+    transform: scale(1.1);
+
 }

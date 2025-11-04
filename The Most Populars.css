@@ -6,19 +6,204 @@
 body
 {
     margin: 0px;
-    background-color: rgb(3, 132, 152);
+    background-color: rgb(13, 27, 42);
 }
-#h
+.menu
 {
-    color: rgb(206, 161, 68);
+    background-color:rgb(93, 58, 125);
+    color: rgb(13, 27, 42);
+    width:150px;
+    height: 60px;
+    border-radius: 20px;
+    margin: 20px;
+    margin-left: 45PX;
+    border: 0px;
+    font-size: 25px;
+    transition:all 0.7s ease-in-out;
+}
+.menu:hover
+{
+    text-shadow: 0px 7px 5px;
+}
+.menu1
+{
+    background-color:rgb(93, 58, 125);
+    color: rgb(13, 27, 42);
+    width:150px;
+    height: 60px;
+    border-radius: 20px;
+    margin: 20px;
+    margin-left: 45PX;
+    border: 0px;
+    font-size: 18px;
+    transition:all 0.7s ease-in-out;
+}
+.menu1:hover
+{
+    text-shadow: 0px 7px 5px;
+}
+.mmdi
+{
+    color: rgb(93, 58, 125);
     font-family: Myriad Pro;
     font-size: 50px;
-    margin-left: 410px;
+    margin-left: 440px;
+    display: block;
+    transition: all 0.5s ease-in-out;
 }
-#tmp
+.mmdi:hover
+{
+    text-shadow: 4px 7px 6px;
+}
+.mmd
+{
+    border-radius:25px;
+    display: inline-block;
+    overflow: hidden;
+    height: 360px;
+    margin: 10px;
+
+}
+.mmd button
+{
+    border-radius:
+     10px;border: 0px; 
+     color:rgb(13, 27, 42);
+     background-color: rgb(93, 58, 125); 
+    font-size: 30px;
+    transition:all 0.5s ease-in-out;
+    margin-left: 35px;
+    margin-top: 8px;
+    
+}
+.mmd button:hover
+{
+    
+    color:rgb(13, 27, 42);
+    text-shadow: 0px 5px 5px;
+
+}
+.mmd span
+{
+    border-radius:
+     10px;border: 0px; 
+     color:rgb(13, 27, 42);
+     background-color: rgb(93, 58, 125); 
+    font-size: 30px;
+    transition:all 1.0s ease-in-out;
+    margin-left: 5px;
+    margin-top: 8px;
+    
+}
+.mmd span:hover
+{
+    
+    color:rgb(13, 27, 42);
+    text-shadow: 0px 5px 5px;
+
+}
+.m img
 {
     width: 300px;
     height: 300px;
     border-radius: 25px;
+    transition:all 1.0s ease-in-out;
+
+}
+.m img:hover
+{
+    
+    transform: scale(1.1);
+}
+.mmdl
+{
+    border-radius:25px;
+    display: inline-block;
+    overflow: hidden;
+    height: 360px;
+    margin: 10px;
+    margin-left: 40px;
+}
+.mmdl button
+{
+    border-radius:
+     10px;border: 0px; 
+     color:rgb(13, 27, 42);
+     background-color: rgb(93, 58, 125); 
+    font-size: 30px;
+    transition:all 1.0s ease-in-out;
+    margin-left: 35px;
+    margin-top: 8px;
+    
+}
+.mmdl button:hover
+{
+    
+    color:rgb(13, 27, 42);
+    text-shadow: 0px 5px 5px;
+
+}
+.mmdl span
+{
+    border-radius:
+     10px;border: 0px; 
+     color:rgb(13, 27, 42);
+     background-color: rgb(93, 58, 125); 
+    font-size: 30px;
+    transition:all 1.0s ease-in-out;
+    margin-left: 5px;
+    margin-top: 8px;
+    
+}
+.mmdl span:hover
+{
+    
+    color:rgb(13, 27, 42);
+    text-shadow: 0px 5px 5px;
+
+}
+.headpici
+{
+    background-color:rgb(93, 58, 125);
+} 
+.headpici button
+{
+    background-color:rgb(93, 58, 125);
+    border: 0px;
+    transition:all 0.5s ease-in-out;
+} 
+.headpici img
+{
+    border-radius: 15px;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+    transition:all 0.5s ease-in-out;
+}
+.headpici span
+{
+    color: rgb(13, 27, 42);
+    font-size: 50px;
+    margin-left: 100px;
+    transition:all 0.5s ease-in-out;
+}
+.headpici .wolf
+{
+    width: 55px;
+    height: 55px;
+    margin-left: 268.2px;
+    margin-top: 10px;
+    transition:all 0.5s ease-in-out;
+}
+.headpici span:hover
+{
+    color: rgb(13, 27, 42);
+    text-shadow: 5px 5px 5px;
+}
+.headpici button :hover
+{
+
+    transform: scale(1.1);
 
 }
