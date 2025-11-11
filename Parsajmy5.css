@@ -1,8 +1,4 @@
 
-#big
-{
-    width: 1350px;
-}
 #game1m
 {
     color:rgb(93, 58, 125);
@@ -20,9 +16,7 @@ body
 {
     color:rgb(93, 58, 125);
     margin: 0px;
-    margin-top: 0px;
-    background-color: rgb(13, 27, 42);
-}
+    background-color: rgb(13, 27, 42);}
 #LIST1
 {
     font-size: 35PX;
@@ -36,6 +30,7 @@ body
     border-radius: 20px;
     margin: 15px;
     transition:all 0.5s ease-in-out;
+    
 }
 .headpic1:hover
 {

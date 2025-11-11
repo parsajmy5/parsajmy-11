@@ -1,13 +1,13 @@
+
+#big
+{
+    width: 1350px;
+}
 body
 {
-    margin:0px;
+    margin: 0px;
     background-color: rgb(13, 27, 42);
-}
-pre
-{
-    font-size: 20px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin: 25px;
+    color: rgb(35, 25, 56);
 }
 .menu
 {
@@ -43,37 +43,78 @@ pre
 {
     text-shadow: 0px 7px 5px;
 }
-#butpic
+#h
 {
-    width: 70px;
-    height: 70px;
-    margin-left: 1100px;
-}
-#mine
-{
-    width: 1350px;
-}
-#h1
-{
+    color: rgb(93, 58, 125);
     font-family: Myriad Pro;
-    font-size: 40px;
+    font-size: 50px;
+    margin-left: 510px;
+    display: block;
+    transition: all 0.5s ease-in-out;
 }
-#h2
+#h:hover
 {
-    font-family: Myriad Pro;
-    font-size: 35px;
-    margin-left: 50px;
+text-shadow: 4px 7px 6px;
+}
+.gameitem
+{
+    display: inline-block;
+    border-radius:25px;
+    overflow:hidden;
+    height: 360px;
+    width: 300px;
+    margin: 10px;
+    background-color: rgb(93, 58, 125);
+    transition:all 0.5s ease-in-out;
+}
+.gameitem:hover
+{
+    box-shadow: 0px 10px 10px;
+    transform: scale(1.1);
+}
+.gameitem button
+{
+    border-radius:
+     10px;border: 0px; 
+     color:rgb(13, 27, 42);
+     background-color: rgb(93, 58, 125); 
+    font-size: 30px;
+    transition:all 0.5s ease-in-out;
+    margin-left: 35px;
+    margin-top: 8px;
     
 }
-footer
+.gameitem button:hover
 {
-    font-family: Myriad Pro;
-    font-size: 20px;
+    
+    color:rgb(13, 27, 42);
+    text-shadow: 0px 5px 5px;
+
 }
-#us
+.gameitem span
 {
-    font-family: Myriad Pro;
-    font-size: 20px;
+    border-radius:10px;
+    border: 0px; 
+     color:rgb(13, 27, 42);
+     background-color: rgb(93, 58, 125); 
+    font-size: 30px;
+    transition:all 1.0s ease-in-out;
+    margin-left: 5px;
+    margin-top: 8px;
+    
+}
+.gameitem span:hover
+{
+    
+    color:rgb(13, 27, 42);
+    text-shadow: 0px 5px 5px;
+
+}
+.gameitempic img
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
 }
 .headpici
 {
@@ -120,3 +161,4 @@ footer
     transform: scale(1.1);
 
 }
+
